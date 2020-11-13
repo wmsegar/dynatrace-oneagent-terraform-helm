@@ -4,3 +4,8 @@
 
 # tfvars
 *.tfvars
+
+# Local .terraform directories
+**/.terraform/*
+
+.vars.tf.swp
